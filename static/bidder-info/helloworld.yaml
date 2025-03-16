@@ -1,0 +1,13 @@
+disabled: false
+endpoint: "http://localhost:9000/bid"
+endpointCompression: none
+geoscope:
+  - global
+maintainer:
+  email: sk@localhost.local
+openrtb:
+  version: 2.6
+capabilities:
+  site:
+    mediaTypes:
+      - banner
